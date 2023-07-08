@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br><br>Hi there! I'm Sergii, a dedicated full stack developer passionate about building great web applications. With expertise in both front-end and back-end development, I love crafting innovative solutions that make a positive impact.<br><br>Collaboration is at the heart of my work. I enjoy working closely with designers, project managers, and fellow developers to deliver outstanding results. Continuous learning is a priority for me, as I stay updated with the latest technologies to bring fresh ideas and efficiency to every project.<br><br>
 
 
